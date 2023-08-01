@@ -47,7 +47,7 @@ onValue(shoppingListInDB, function(snapshot) {
             
         }
     } else{
-        shoppingListEl.innerHTML = "No has agregado nada aún.."
+        shoppingListEl.innerHTML = "You have nothing yet.."
     }
 
   
